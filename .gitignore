@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Refact.ai
+.refact/
+.refact_backup/
+
+# Env
+.env
+*.log
