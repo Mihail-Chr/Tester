@@ -14,6 +14,15 @@ playwright/.cache/
 .refact/
 .refact_backup/
 
-# Env
+# Secrets — НИКОГДА не коммитить
+ssh_key_git
+ssh_key_git.pub
+*.pem
+*.key
 .env
+.env.*
+secrets/
+
+# Misc
 *.log
+

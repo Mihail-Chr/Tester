@@ -2,5 +2,10 @@ node_modules/
 test-results/
 playwright-report/
 playwright/.cache/
+.refact/
+.refact
+.vscode/
+.idea/
 .env
-*.log
+*.log.refact/ 
+.vscode/ 
